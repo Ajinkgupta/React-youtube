@@ -1,6 +1,6 @@
 # React Youtube Clone with the help of yt api
 
-demo :- https://youtube.ajinkgupta.me/
+demo :- https://youtube.ajink.tech/
 
 starter code
 
